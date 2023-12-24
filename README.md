@@ -17,9 +17,6 @@ Illustrator, CorelDRAW, Microsoft Word ,
 Python, PHP
 
 ### Network content markup languages
-
-<div id="header" align="center">
-  <img src="[https://gitlab.com/gggg8/network-content-markup-languages/-/blob/main/Interactive%20maps/karti__1_.gif](https://github.com/DariaTui/Network-content-markup-languages/blob/main/karti.gif)" width="500"/>
-</div>
-
-[click here]([https://gitlab.com/gggg8/network-content-markup-languages/-/tree/main/Interactive%20maps](https://github.com/DariaTui/Network-content-markup-languages/blob/main/karti.gif)https://github.com/DariaTui/Network-content-markup-languages/blob/main/karti.gif)
+#### Interactive Cards
+![karti](https://github.com/DariaTui/Network-content-markup-languages/blob/main/karti.gif)
+[click here](https://github.com/DariaTui/Network-content-markup-languages/tree/main/cards/cards)
