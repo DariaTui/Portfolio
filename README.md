@@ -37,13 +37,13 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigza
 #### Doodle
 ![doodle](https://github.com/DariaTui/Portfolio/assets/118703537/d9b64e1c-2d41-41a3-9fdb-c0d6b91a019e)
 #### Working with Photoshop
-![result](https://github.com/DariaTui/Portfolio/assets/118703537/9a1e16ea-ec99-4a24-8590-9e2f2121d4a7)
-<img src="https://github.com/DariaTui/Portfolio/assets/118703537/dd4cf3dc-85f9-4d4a-be3e-93920f72788a" width="500"/></div>
-![tayushchiy-shrift](https://github.com/DariaTui/Portfolio/assets/118703537/f9891f37-38d8-49d3-b45e-ae678a183d7b)
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/9a1e16ea-ec99-4a24-8590-9e2f2121d4a7" width="500"/></div>
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/dd4cf3dc-85f9-4d4a-be3e-93920f72788a" width="500"/></div>
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/f9891f37-38d8-49d3-b45e-ae678a183d7b" width="500"/></div>
 #### Design of cutway
 ![vizitki](https://github.com/DariaTui/Portfolio/assets/118703537/d0a99a0c-05f4-4110-931d-f6a9d90ab1f0)
 #### Designe of network page
-![untitled-1](https://github.com/DariaTui/Portfolio/assets/118703537/cb5cddaf-e2be-455e-92c3-282737a0b66f)
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/cb5cddaf-e2be-455e-92c3-282737a0b66f" width="500"/></div>
 #### Designe of app
 ![сайт1](https://github.com/DariaTui/Portfolio/assets/118703537/71bc711b-9b43-46e2-8cec-1fe1cfbbf7b1)
 ![сайт2](https://github.com/DariaTui/Portfolio/assets/118703537/f6fa8225-1628-44af-8b42-71437e9bce55)
@@ -52,21 +52,19 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigza
 
 ### Visual identity
 #### Name as trademark
-
-![imya2](https://github.com/DariaTui/Portfolio/assets/118703537/af3a71ca-6159-4b90-b656-3d384ea59ab9)
-![imya3](https://github.com/DariaTui/Portfolio/assets/118703537/a9b4e8ed-66d4-496a-a566-b488b86d3209)
-![imyamult](https://github.com/DariaTui/Portfolio/assets/118703537/6c347900-dc9b-4176-b62c-c86ef93ebdd4)
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/af3a71ca-6159-4b90-b656-3d384ea59ab9" width="300"/></div>
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/a9b4e8ed-66d4-496a-a566-b488b86d3209" width="300"/></div>
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/6c347900-dc9b-4176-b62c-c86ef93ebdd4" width="300"/></div>
 
 #### Identity for the faculty. Patterns
-
-![орандж](https://github.com/DariaTui/Portfolio/assets/118703537/0e447c93-76fc-45a5-becc-067409f16bfe)
-![патерн бел фон](https://github.com/DariaTui/Portfolio/assets/118703537/40363a5a-ab34-4de8-a560-89d4d938fc49)
-![синий](https://github.com/DariaTui/Portfolio/assets/118703537/fb07698e-5e9e-468f-bfe2-21da8180325e)
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/0e447c93-76fc-45a5-becc-067409f16bfe" width="300"/></div>
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/40363a5a-ab34-4de8-a560-89d4d938fc49" width="300"/></div>
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/fb07698e-5e9e-468f-bfe2-21da8180325e" width="300"/></div>
 
 #### Identity for the faculty. Mascot
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/a2b61cc7-fbc7-4fdf-a317-3307b36caeb3" width="300"/></div>
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/8477e4ec-eb08-4686-bb55-568d935c6466" width="300"/></div>
 
-![робот](https://github.com/DariaTui/Portfolio/assets/118703537/a2b61cc7-fbc7-4fdf-a317-3307b36caeb3)
-![робот2](https://github.com/DariaTui/Portfolio/assets/118703537/8477e4ec-eb08-4686-bb55-568d935c6466)
 
 
 
