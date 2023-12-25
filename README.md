@@ -65,6 +65,8 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigza
 <img src="https://github.com/DariaTui/Portfolio/assets/118703537/a2b61cc7-fbc7-4fdf-a317-3307b36caeb3" width="300"/></div>
 <img src="https://github.com/DariaTui/Portfolio/assets/118703537/8477e4ec-eb08-4686-bb55-568d935c6466" width="300"/></div>
 
+### Computer graphics
+#### Web Development Technology
 
 
 
