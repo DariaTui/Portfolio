@@ -42,6 +42,7 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigza
 <div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/f9891f37-38d8-49d3-b45e-ae678a183d7b" width="500"/></div>
 #### Design of cutway
 ![vizitki](https://github.com/DariaTui/Portfolio/assets/118703537/d0a99a0c-05f4-4110-931d-f6a9d90ab1f0)
+
 #### Designe of network page
 <img src="https://github.com/DariaTui/Portfolio/assets/118703537/cb5cddaf-e2be-455e-92c3-282737a0b66f" width="500"/></div>
 #### Designe of app
@@ -65,8 +66,22 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigza
 <img src="https://github.com/DariaTui/Portfolio/assets/118703537/a2b61cc7-fbc7-4fdf-a317-3307b36caeb3" width="300"/></div>
 <img src="https://github.com/DariaTui/Portfolio/assets/118703537/8477e4ec-eb08-4686-bb55-568d935c6466" width="300"/></div>
 
-### Computer graphics
-#### Web Development Technology
+### Web Development Technology
+#### Game Saper
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/9fee6ea3-7c19-48e8-8909-1c2d48b26c21" width="500"/></div>
+
+[click here](https://github.com/DariaTui/Web-Development-Technology/tree/main/saper)
+
+#### Todo list
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/8af88a9c-fc7b-4573-b863-875dfa53ba92" width="500"/></div>
+
+[click here](https://github.com/DariaTui/Web-Development-Technology/tree/main/todolist)
+
+#### Layout of the program for creating business cards
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/78fcbd86-9e0f-47ff-bbf0-f1b0e027e40c" width="500"/></div>
+
+[click here](https://github.com/DariaTui/Web-Development-Technology/tree/main/vizitka3)
+
 
 
 
