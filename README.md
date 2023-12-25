@@ -40,6 +40,7 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigza
 <div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/9a1e16ea-ec99-4a24-8590-9e2f2121d4a7" width="500"/></div>
 <div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/dd4cf3dc-85f9-4d4a-be3e-93920f72788a" width="500"/></div>
 <div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/f9891f37-38d8-49d3-b45e-ae678a183d7b" width="500"/></div>
+
 #### Design of cutway
 ![vizitki](https://github.com/DariaTui/Portfolio/assets/118703537/d0a99a0c-05f4-4110-931d-f6a9d90ab1f0)
 
