@@ -34,8 +34,6 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/parke
 https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigzag.svg
 
 ### The basics of computer graphics
-#### Glassmorphism design
-![glassmorfism](https://github.com/DariaTui/Portfolio/assets/118703537/fec7d786-6a06-4336-a122-9be8fb655046)
 #### Doodle
 ![doodle](https://github.com/DariaTui/Portfolio/assets/118703537/d9b64e1c-2d41-41a3-9fdb-c0d6b91a019e)
 #### Working with Photoshop
@@ -49,6 +47,27 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigza
 #### Designe of app
 ![сайт1](https://github.com/DariaTui/Portfolio/assets/118703537/71bc711b-9b43-46e2-8cec-1fe1cfbbf7b1)
 ![сайт2](https://github.com/DariaTui/Portfolio/assets/118703537/f6fa8225-1628-44af-8b42-71437e9bce55)
+
+## My 2 course
+
+### Visual identity
+#### Name as trademark
+
+![imya2](https://github.com/DariaTui/Portfolio/assets/118703537/af3a71ca-6159-4b90-b656-3d384ea59ab9)
+![imya3](https://github.com/DariaTui/Portfolio/assets/118703537/a9b4e8ed-66d4-496a-a566-b488b86d3209)
+![imyamult](https://github.com/DariaTui/Portfolio/assets/118703537/6c347900-dc9b-4176-b62c-c86ef93ebdd4)
+
+#### Identity for the faculty. Patterns
+
+![орандж](https://github.com/DariaTui/Portfolio/assets/118703537/0e447c93-76fc-45a5-becc-067409f16bfe)
+![патерн бел фон](https://github.com/DariaTui/Portfolio/assets/118703537/40363a5a-ab34-4de8-a560-89d4d938fc49)
+![синий](https://github.com/DariaTui/Portfolio/assets/118703537/fb07698e-5e9e-468f-bfe2-21da8180325e)
+
+#### Identity for the faculty. Mascot
+
+![робот](https://github.com/DariaTui/Portfolio/assets/118703537/a2b61cc7-fbc7-4fdf-a317-3307b36caeb3)
+![робот2](https://github.com/DariaTui/Portfolio/assets/118703537/8477e4ec-eb08-4686-bb55-568d935c6466)
+
 
 
 
