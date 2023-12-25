@@ -42,7 +42,13 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigza
 ![result](https://github.com/DariaTui/Portfolio/assets/118703537/9a1e16ea-ec99-4a24-8590-9e2f2121d4a7)
 <img src="https://github.com/DariaTui/Portfolio/assets/118703537/dd4cf3dc-85f9-4d4a-be3e-93920f72788a" width="500"/></div>
 ![tayushchiy-shrift](https://github.com/DariaTui/Portfolio/assets/118703537/f9891f37-38d8-49d3-b45e-ae678a183d7b)
-
+#### Design of cutway
+![vizitki](https://github.com/DariaTui/Portfolio/assets/118703537/d0a99a0c-05f4-4110-931d-f6a9d90ab1f0)
+#### Designe of network page
+![untitled-1](https://github.com/DariaTui/Portfolio/assets/118703537/cb5cddaf-e2be-455e-92c3-282737a0b66f)
+#### Designe of app
+![сайт1](https://github.com/DariaTui/Portfolio/assets/118703537/71bc711b-9b43-46e2-8cec-1fe1cfbbf7b1)
+![сайт2](https://github.com/DariaTui/Portfolio/assets/118703537/f6fa8225-1628-44af-8b42-71437e9bce55)
 
 
 
