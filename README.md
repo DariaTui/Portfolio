@@ -33,4 +33,16 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/parke
   <div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/f849458b-3666-429b-a72c-8f86f1b37763" width="200"/></div>
 https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigzag.svg
 
+### The basics of computer graphics
+#### Glassmorphism design
+![glassmorfism](https://github.com/DariaTui/Portfolio/assets/118703537/fec7d786-6a06-4336-a122-9be8fb655046)
+#### Doodle
+![doodle](https://github.com/DariaTui/Portfolio/assets/118703537/d9b64e1c-2d41-41a3-9fdb-c0d6b91a019e)
+#### Working with Photoshop
+![result](https://github.com/DariaTui/Portfolio/assets/118703537/9a1e16ea-ec99-4a24-8590-9e2f2121d4a7)
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/dd4cf3dc-85f9-4d4a-be3e-93920f72788a" width="500"/></div>
+![tayushchiy-shrift](https://github.com/DariaTui/Portfolio/assets/118703537/f9891f37-38d8-49d3-b45e-ae678a183d7b)
+
+
+
 
