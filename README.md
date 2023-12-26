@@ -33,6 +33,11 @@ Python, PHP
 
 [click here](https://github.com/DariaTui/Python-programming/tree/main/04.15_snake)
 
+#### Solar System
+![solar_system](https://github.com/DariaTui/Python-programming/blob/main/solar_system.gif)
+
+[click here](https://github.com/DariaTui/Python-programming/blob/main/solar_sys.py)
+
 #### Drawing icons in SVG format
   <div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/246419e3-b420-4580-9e47-4de0fd3363c7" width="200"/></div>
   
