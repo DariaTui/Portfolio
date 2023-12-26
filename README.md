@@ -104,5 +104,20 @@ Python, PHP
 <div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/425fd884-4f67-43d2-8fb1-9fd3918b3324" width="300"/></div>
 <div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/9a3162d6-cd0b-4c7f-8a68-c3337220aed2" width="300"/></div>
 
+## My 3 course
+### Publishing 
+## Font portrait
+
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/29950a62-6917-47d5-b525-8da3ca78a678" width="300"/>
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/ffc6affb-855c-4826-a048-0ceeadaedfbd" width="300"/>
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/4f94da35-33c6-4e99-a86f-51fa1744eb08" width="300"/>
+
+## Business card
+
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/a4c9cec5-1972-470b-ac40-768c59dc9311" width="300"/>
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/d9cb7619-ab98-4738-aa55-65c0519c8893" width="300"/>
+<img src="https://github.com/DariaTui/Portfolio/assets/118703537/ed20585f-3492-4d33-bbf5-065ce98ec8c4" width="400"/>
+
+
 
 
