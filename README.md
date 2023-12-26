@@ -58,6 +58,11 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigza
 <img src="https://github.com/DariaTui/Portfolio/assets/118703537/a9b4e8ed-66d4-496a-a566-b488b86d3209" width="300"/></div>
 <img src="https://github.com/DariaTui/Portfolio/assets/118703537/6c347900-dc9b-4176-b62c-c86ef93ebdd4" width="300"/></div>
 
+#### Identity for the faculty. Logo
+
+![graphic logo 2](https://github.com/DariaTui/Portfolio/assets/118703537/74e86c9d-1f40-4cef-ab6b-f53d117097ca)
+
+
 #### Identity for the faculty. Patterns
 <img src="https://github.com/DariaTui/Portfolio/assets/118703537/0e447c93-76fc-45a5-becc-067409f16bfe" width="300"/></div>
 <img src="https://github.com/DariaTui/Portfolio/assets/118703537/40363a5a-ab34-4de8-a560-89d4d938fc49" width="300"/></div>
@@ -83,7 +88,12 @@ https://github.com/DariaTui/Network-content-markup-languages/blob/main/svg/zigza
 
 [click here](https://github.com/DariaTui/Web-Development-Technology/tree/main/vizitka3)
 
+#### Logos for alcohol store
 
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/e7af14e9-c01c-4302-9dbc-8b7e2cc88de0" width="300"/></div>
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/4a03a23f-686e-4e3a-9ba4-b598666e76c6" width="400"/></div>
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/425fd884-4f67-43d2-8fb1-9fd3918b3324" width="300"/></div>
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/9a3162d6-cd0b-4c7f-8a68-c3337220aed2" width="300"/></div>
 
 
 
