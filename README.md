@@ -21,6 +21,18 @@ Python, PHP
 ![karti](https://github.com/DariaTui/Network-content-markup-languages/blob/main/cards/cards/karti.gif)
 
 [click here](https://github.com/DariaTui/Network-content-markup-languages/tree/main/cards/cards)
+
+### Python programming
+#### Rose
+![roza](https://github.com/DariaTui/Python-programming/blob/main/roza.gif)
+
+[click here](https://github.com/DariaTui/Python-programming/blob/main/roza.py)
+
+#### Snake Game
+![snake](https://github.com/DariaTui/Python-programming/blob/main/04.15_snake/snake.gif)
+
+[click here](https://github.com/DariaTui/Python-programming/tree/main/04.15_snake)
+
 #### Drawing icons in SVG format
   <div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/246419e3-b420-4580-9e47-4de0fd3363c7" width="200"/></div>
   
