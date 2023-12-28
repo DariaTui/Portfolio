@@ -1,6 +1,17 @@
 # Portfolio Daria Tiutiunkova \ Irkutsk State University \ FBKI \ 2023
 
-## My 1 course
+## Content
+  <dl>
+  <dt>Resume</dt>
+  <dt>My 1 course</dt>
+    <dd>Network content markup languages</dd>
+    <dd>Python programming</dd>
+  <dt>My 2 course</dt>
+    <dd>Web Development Technology</dd>
+    <dd>Python programming</dd>
+  <dt>My 3 course</dt>
+    <dd>QML</dd>
+</dl>
 
 ### Resume
 
@@ -16,6 +27,7 @@ responsible attitude to work.
 Illustrator, CorelDRAW, Microsoft Word ,
 Python, PHP
 
+## My 1 course
 ### Network content markup languages
 #### Interactive Cards
 ![karti](https://github.com/DariaTui/Network-content-markup-languages/blob/main/cards/cards/karti.gif)
