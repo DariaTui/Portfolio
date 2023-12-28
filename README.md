@@ -80,15 +80,27 @@ Python, PHP
 ## My 3 course
 ### QML
 #### User interaction
-![QML_3](https://github.com/DariaTui/Portfolio/assets/118703537/355b60bc-16d1-4f01-8b1f-94941e54c09b)
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/355b60bc-16d1-4f01-8b1f-94941e54c09b" width="500"/></div>
 
 [click here](https://gitlab.com/gggg8/qml/-/blob/main/QML_3/main.qml?ref_type=heads)
 
 #### Chat on QML
-
-![Uploading Chat.gif…]()
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/797a87d1-2686-431b-9953-dc649fc60a06" width="500"/></div>
 
 [click here](https://gitlab.com/gggg8/qml/-/blob/main/QML_4/main.qml?ref_type=heads)
+
+#### Lighter
+
+<div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/4e5e33b1-ceb7-42a5-b4bf-dcfd31a06ad9" width="500"/></div>
+
+[click here](https://gitlab.com/gggg8/qml/-/blob/main/QML_5/main.qml?ref_type=heads)
+
+#### StackView
+
+![StackView](https://github.com/DariaTui/Portfolio/assets/118703537/e77cd7b0-eedc-4a1c-aa9e-bb486a8b4a70)
+
+
+[click here](https://gitlab.com/gggg8/qml/-/blob/main/QML_6/main.qml?ref_type=heads)
 
 
 
