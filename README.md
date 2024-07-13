@@ -116,5 +116,12 @@ Python, PHP
 
 #### RGB Lamp
 
+<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/fullRabbit.jpg" height="300"/> 
+
+[Ссылка на демо-видео на YouTube](https://youtu.be/Q4jHd2ZgEUA)
+
+#### Parsing 101Hotels
+
+
 
 
