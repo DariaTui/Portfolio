@@ -25,7 +25,7 @@ responsible attitude to work.
 
 - Ownership: Adobe Photoshop, InDesign.
 Illustrator, CorelDRAW, Microsoft Word ,
-Python, PHP
+Python, PHP, JavaScript
 
 ## My 1 course
 ### Network content markup languages
@@ -118,10 +118,14 @@ Python, PHP
 
 <img src="https://github.com/DariaTui/RGBLamp/blob/main/result/fullRabbit.jpg" height="300"/> 
 
-[Ссылка на демо-видео на YouTube](https://youtu.be/Q4jHd2ZgEUA)
+[demo video on YouTube](https://youtu.be/Q4jHd2ZgEUA)
 
 #### Parsing 101Hotels
 
+The result of the selection of data on available placements on the current date
 
+<div><img src="https://github.com/DariaTui/parsing_data/blob/main/results/resultFromHotels.jpg" width="500"/></div>
+<div><img src="https://github.com/DariaTui/parsing_data/blob/main/results/resultFromRooms.jpg" width="500"/></div>
 
+[here you can see the code](https://github.com/DariaTui/parsing_data/tree/main)
 
