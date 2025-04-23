@@ -129,3 +129,11 @@ The result of the selection of data on available placements on the current date
 
 [here you can see the code](https://github.com/DariaTui/parsing_data/tree/main)
 
+## My 4 course
+
+#### Development of a decision support system for businesses in the tourism sector
+
+The system provides the ability to configure parameters for creating maps based on the calculation of the coefficient of favorable environment (KBS). These maps allow you to identify the most favorable environment by analyzing a combination of factors – the number of competitors, the number of infrastructure facilities, the proximity of tourist routes, and the type of landscape. The business owner can also get a zoning map that provides information about the ecological and tourist zoning of Olkhon Island, the map reflects the degree of environmental restrictions and displays information about the recommended type of tourism. In addition, settings are provided for building a density map, which helps to assess the level of market saturation in various locations.
+
+<div><img src="" width="500"/>![system](https://github.com/user-attachments/assets/7e978c06-6148-4dfa-95ff-ae0df9e1b596)
+</div>
