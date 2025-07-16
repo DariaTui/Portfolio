@@ -135,6 +135,6 @@ The result of the selection of data on available placements on the current date
 
 The system provides the ability to configure parameters for creating maps based on the calculation of the coefficient of favorable environment (KBS). These maps allow you to identify the most favorable environment by analyzing a combination of factors – the number of competitors, the number of infrastructure facilities, the proximity of tourist routes, and the type of landscape. The business owner can also get a zoning map that provides information about the ecological and tourist zoning of Olkhon Island, the map reflects the degree of environmental restrictions and displays information about the recommended type of tourism. In addition, settings are provided for building a density map, which helps to assess the level of market saturation in various locations.
 
-<div><img src="https://github.com/DariaTui/diplom/blob/main/pictures/system.jpg" height="500"/></div>
-<div><img src="https://github.com/DariaTui/diplom/blob/main/pictures/landshaft_map.jpg" height="500"/></div>
-<div><img src="https://github.com/DariaTui/diplom/blob/main/pictures/density_map.jpg" height="500"/></div>
+<div><img src="https://github.com/DariaTui/diplom/blob/main/pictures/system.png" height="500"/></div>
+<div><img src="https://github.com/DariaTui/diplom/blob/main/pictures/landshaft_map.png" height="500"/></div>
+<div><img src="https://github.com/DariaTui/diplom/blob/main/pictures/density_map.png" height="500"/></div>
