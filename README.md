@@ -90,6 +90,9 @@ Python, PHP, JavaScript
 [click here](https://github.com/DariaTui/Web-Development-Technology/tree/main/vizitka3)
 
 ## My 3 course
+### Analytical
+#### Graphs of incomes of the subjects of the Russian Federation
+<div><img src="https://github.com/DariaTui/TableauPublic/blob/main/mapzp.jpg" width="500"></div>
 ### QML
 #### User interaction
 <div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/355b60bc-16d1-4f01-8b1f-94941e54c09b" width="500"/></div>
@@ -130,7 +133,6 @@ The result of the selection of data on available placements on the current date
 [here you can see the code](https://github.com/DariaTui/parsing_data/tree/main)
 
 ## My 4 course
-
 #### Development of a decision support system for businesses in the tourism sector
 
 The system provides the ability to configure parameters for creating maps based on the calculation of the coefficient of favorable environment (KBS). These maps allow you to identify the most favorable environment by analyzing a combination of factors – the number of competitors, the number of infrastructure facilities, the proximity of tourist routes, and the type of landscape. The business owner can also get a zoning map that provides information about the ecological and tourist zoning of Olkhon Island, the map reflects the degree of environmental restrictions and displays information about the recommended type of tourism. In addition, settings are provided for building a density map, which helps to assess the level of market saturation in various locations.
