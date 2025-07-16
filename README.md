@@ -10,7 +10,10 @@
     <dd>Web Development Technology</dd>
     <dd>Python programming</dd>
   <dt>My 3 course</dt>
+    <dd>Analytical</dd>
     <dd>QML</dd>
+<dt>My 4 course</dt>
+    <dd>Development of a decision support system for businesses in the tourism sector</dd>
 </dl>
 
 ### Resume
