@@ -93,6 +93,10 @@ Python, PHP, JavaScript
 ### Analytical
 #### Graphs of incomes of the subjects of the Russian Federation
 <div><img src="https://github.com/DariaTui/TableauPublic/blob/main/mapzp.jpg" width="500"></div>
+
+#### Analysis of the seismicity of Lake Baikal
+<div><img src="https://github.com/DariaTui/TableauPublic/blob/main/seasmichnosBaikal.jpg" width="500"></div>
+
 ### QML
 #### User interaction
 <div><img src="https://github.com/DariaTui/Portfolio/assets/118703537/355b60bc-16d1-4f01-8b1f-94941e54c09b" width="500"/></div>
