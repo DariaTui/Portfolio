@@ -149,3 +149,4 @@ The system provides the ability to configure parameters for creating maps based 
 <div><img src="https://github.com/DariaTui/diplom/blob/main/pictures/density_map.png" height="500"/></div>
 
 ![system](https://github.com/DariaTui/diplom/blob/main/pictures/systembus.gif)
+[demo video on YouTube](https://github.com/DariaTui/diplom/blob/main/pictures/systembus.gif)
