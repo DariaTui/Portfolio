@@ -147,3 +147,5 @@ The system provides the ability to configure parameters for creating maps based 
 <div><img src="https://github.com/DariaTui/diplom/blob/main/pictures/system.png" height="500"/></div>
 <div><img src="https://github.com/DariaTui/diplom/blob/main/pictures/landshaft_map.png" height="500"/></div>
 <div><img src="https://github.com/DariaTui/diplom/blob/main/pictures/density_map.png" height="500"/></div>
+
+(https://github.com/DariaTui/diplom/blob/main/pictures/systembus.gif)
